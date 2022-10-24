@@ -1,66 +1,32 @@
-<h1 align="center">Prueba practica keepPagesByDW</h1>
-<h3 align="center">Tecnologias usadas: React, Next, Node y Heroku.</h3>
+<h1 align="center">BASE DE DATOS UNIFRANZ B)</h1>
+<h3 align="center">SEGUNDO SEMESTRE </h3>
 
-## ✨ Demo
+## ✨ HITO 3 (ㆆ_ㆆ)
 
-Available in Heroku
+[repositorio H3]
+https://github.com/kevinSanga/BASE_DE_DATOS_I/tree/main/HITO_3.
 
-sh
-https://keeppagesbydw.herokuapp.com/
+laboratorio_1
+https://github.com/kevinSanga/BASE_DE_DATOS_I/tree/main/HITO_3/LABORATORIO_1
+laboratorio_2
+https://github.com/kevinSanga/BASE_DE_DATOS_I/tree/main/HITO_3/LABORATORIO_2
+laboratorio_3
+https://github.com/kevinSanga/BASE_DE_DATOS_I/tree/main/HITO_3/LABORATORIO_3
 
-
-## 🚀 Usage
-
-Clone the repository
-
-sh
-git clone https://github.com/dheeyi/keeppages.git
-
-
-## 📖 Installation
-
-SSR and CSR:
-
-sh
-cd keepages
-
-git checkout master
-
-npm install
+## procesual: aun no hecho TT
 
 
-## 📖  Development setup
 
-To run the application, it is necessary to execute
+## 📖 lenguaje de programacion
 
-sh
-npm run dev
+SQL
 
 
-## 📖  Production setup
+## 📖  estudiante unifranz
 
-To run the application, it is necessary to execute
+KEVIN JAVIER SANGA ORTIZ 
 
-sh
-npm run build
-npm run start
+SIS6075599
 
 
-## ✨ Screenshots
-
-<p align="center">
-    <img src="https://dl.dropboxusercontent.com/s/q19g1hovmz2k6te/brave_7KJLTmUUHG.png" width="450">
-</p>
-
-
-## 👤 Author
-
-*Dheeyi William*
-
-- Twitter: [@dheeyi](https://twitter.com/dheeyi)
-- Github: [@dheeyi](https://github.com/dheeyi)
-
-## 📝 License
-
-Copyright © 2021 [Dheeyi William](https://github.com/dheeyi).
-See ``MIT LICENSE`` for more information.
+## 📖  Bienvenido
