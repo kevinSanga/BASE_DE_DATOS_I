@@ -18,8 +18,7 @@ laboratorio_3
 
 https://github.com/kevinSanga/BASE_DE_DATOS_I/tree/main/HITO_3/LABORATORIO_3
 
-## procesual: aun no hecho TT
-
+## procesual en proceso
 
 
 ## 📖 lenguaje de programacion
